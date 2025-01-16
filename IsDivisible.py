@@ -7,6 +7,6 @@ def IsDivisible(Num1,Num2):
         else:
             return False
     except:
-        print('please try again, your input was incorrect')
+        print('please try again, your input wa sincorrect')
     
     
