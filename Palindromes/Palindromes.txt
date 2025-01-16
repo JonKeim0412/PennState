@@ -1,0 +1,5 @@
+run:
+Enter a word to check if its a palindrome: 
+radar
+The word is a Palindrome.
+BUILD SUCCESSFUL (total time: 13 seconds)

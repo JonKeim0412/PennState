@@ -1,0 +1,5 @@
+run:
+Enter the temperature in Fahrenheit (between -58 and 48): 46
+Enter the wind speed in mph (at least 2): 48
+The wind chill is: 34.45�F
+BUILD SUCCESSFUL (total time: 7 seconds)

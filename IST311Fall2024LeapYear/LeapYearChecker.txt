@@ -1,0 +1,7 @@
+run:
+Year: 1900 - Leap Year? false
+Year: 2000 - Leap Year? true
+Year: 1996 - Leap Year? true
+Year: 2024 - Leap Year? true
+Year: 2023 - Leap Year? false
+BUILD SUCCESSFUL (total time: 0 seconds)
